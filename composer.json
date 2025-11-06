@@ -1,0 +1,27 @@
+{
+    "name": "dshovchko/flarum-avif-support",
+    "description": "Adds AVIF image format support to Flarum",
+    "keywords": ["flarum", "extension", "avif", "images"],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DShovchko\\AvifSupport\\": "src/",
+            "s9e\\TextFormatter\\Plugins\\Autoimage\\": "overrides/Autoimage"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "AVIF Support",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-image",
+                "backgroundColor": "#4CAF50",
+                "color": "#fff"
+            }
+        }
+    }
+}
