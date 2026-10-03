@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of dshovchko/flarum-avif-support.** Not for installation: use [Packagist](https://packagist.org/packages/dshovchko/flarum-avif-support) or the [upstream repository](https://github.com/dshovchko/flarum-avif-support).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dshovchko-flarum-avif-support/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dshovchko-flarum-avif-support/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-06 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-avif-support/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/dshovchko-flarum-avif-support.json](https://github.com/flarchive/archive-index/blob/main/packages/dshovchko-flarum-avif-support.json)
 
